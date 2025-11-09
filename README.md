@@ -5,6 +5,7 @@ A conversational AI chatbot designed to help yoga studios handle client messages
 > ⚠️ **Work in Progress:** The bot is functional and can handle conversational support, but development is ongoing for full features and deployment.
 
 ---
+<img width="898" height="867" alt="english" src="https://github.com/user-attachments/assets/0f6b5802-03a4-4ae3-8c5c-7c4f098b1f30" />
 
 ## 🚀 Key Features
 
