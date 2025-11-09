@@ -1,6 +1,14 @@
-embedings.ipynb/
+# Jupyter notebooks
+*.ipynb
+
+# Data folder
 data/
+
+# Old folder
 old/
-openai_vol7 (intent detection with ai).ipynb/
-testing.ipynb/
-config.py/
+
+# Specific notebook with spaces in the name
+openai_vol7 (intent detection with ai).ipynb
+
+# Config file
+config.py
